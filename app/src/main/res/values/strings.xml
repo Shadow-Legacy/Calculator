@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="enter_number">Enter number</string>
+
+    <!-- Calculator Buttons -->
+    <string-array name="calculator_buttons">
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>C</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>/</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>*</item>
+        <item>0</item>
+        <item>.</item>
+        <item>=</item>
+        <item>+</item>
+    </string-array>
+
+    <!-- Additional Calculator Operations -->
+    <string name="backspace">←</string>
+    <string name="sqrt">√</string>
+    <string name="change_sign">+/-</string>
+    <string name="clear">C</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="error_message">Error</string>
+
+</resources>
